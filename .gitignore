@@ -11,6 +11,9 @@ build/
 !default.mode1v3
 *.mode2v3
 !default.mode2v3
+/android/app/build
+/android/app/keystore.jks
+/android/.gradle
 *.perspectivev3
 !default.perspectivev3
 xcuserdata
